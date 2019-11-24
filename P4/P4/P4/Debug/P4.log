@@ -1,0 +1,4 @@
+﻿  p4.cpp
+c:\users\taruc\desktop\p4\p4\p4.cpp(127): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+  P4.vcxproj -> C:\Users\TARUC\Desktop\P4\Debug\P4.exe
+  P4.vcxproj -> C:\Users\TARUC\Desktop\P4\Debug\P4.pdb (Partial PDB)
